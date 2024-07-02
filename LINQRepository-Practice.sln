@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQRepository-Practice", "LINQRepository-Practice\LINQRepository-Practice.csproj", "{22019432-280D-42F3-B9DA-6E5110BA10C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22019432-280D-42F3-B9DA-6E5110BA10C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22019432-280D-42F3-B9DA-6E5110BA10C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22019432-280D-42F3-B9DA-6E5110BA10C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22019432-280D-42F3-B9DA-6E5110BA10C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4543F72D-8BAA-432B-906A-C92E0391FA0E}
+	EndGlobalSection
+EndGlobal
